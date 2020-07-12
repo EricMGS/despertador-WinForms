@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\TrabalhoT2POO\bin\Debug\TrabalhoT2POO.exe.config
+C:\Users\user\Desktop\TrabalhoT2POO\bin\Debug\TrabalhoT2POO.exe
+C:\Users\user\Desktop\TrabalhoT2POO\bin\Debug\TrabalhoT2POO.pdb
+C:\Users\user\Desktop\TrabalhoT2POO\obj\Debug\TrabalhoT2POO.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TrabalhoT2POO\obj\Debug\TrabalhoT2POO.Properties.Resources.resources
+C:\Users\user\Desktop\TrabalhoT2POO\obj\Debug\TrabalhoT2POO.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TrabalhoT2POO\obj\Debug\TrabalhoT2POO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TrabalhoT2POO\obj\Debug\TrabalhoT2POO.exe
+C:\Users\user\Desktop\TrabalhoT2POO\obj\Debug\TrabalhoT2POO.pdb
+C:\Users\user\Desktop\TrabalhoT2POO\obj\Debug\TrabalhoT2POO.frmTimer.resources
